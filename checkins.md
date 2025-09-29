@@ -1,58 +1,58 @@
-## Week 1 Summary (MM/DD/YYYY)
+## Week 1 Summary (09/08/2025)
 
 ### This week I worked on:
 
-[Your answer here]
+Brainstorming for my project in a the music field.
 
 ### This week I learned:
 
-[Your answer here]
+Dr. Shapovalov is making a website for the music deparmtent.
 
 ### My successes this week were:
 
-[Your answer here]
+Briefly discussing my ideas with Mahoney, either for some extension of Dr. Shapovalov's work or a simple compositional app.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Having to prepare for my pre-recital jury for my music thesis.
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (09/15/2025)
 ### This week I worked on:
 
-[Your answer here]
+Very little.
 
 ### This week I learned:
 
-[Your answer here]
+That rehearsals for a small-group is hard to schedule.
 
 ### My successes this week were:
 
-[Your answer here]
+Devoting time to my pre-recital jury preparation.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Devoting time to my pre-recital jury preparation.
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (09/22/2025)
 ### This week I worked on:
 
-[Your answer here]
+Meeting with Dr. Shapovalov and establishing what pieces of his website might be extendable for my project.
 
 ### This week I learned:
 
-[Your answer here]
+The two main extensions that seem possible are a melodic dictation route, which would be similar to a small-scale compositional work but with a lot less rendering necessary, and an assessment route, in which I design something which can adequately detect pitch within the human voice.
 
 ### My successes this week were:
 
-[Your answer here]
+Establishing there is a project to be completed with Dr. Shapovalov's website.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+We're not sure how we'll be able to connect my code edits to his private repository, and he has yet to actually share the website with me so I can look into it more.
 
 ---
 
