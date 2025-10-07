@@ -56,22 +56,22 @@ We're not sure how we'll be able to connect my code edits to his private reposit
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (09/29/2025)
 ### This week I worked on:
 
-[Your answer here]
+Following up with Dr. Shapovalov and establishing next steps with Dr. Mahoney and Dr. Zak.
 
 ### This week I learned:
 
-[Your answer here]
+I need to determine if I'l be able to manipulate the raw output of a microphone from web browsers.
 
 ### My successes this week were:
 
-[Your answer here]
+Meeting and corresponding with the various professors.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Actually motivating myself to do very much research into the necessary questions standing between me and my elevator pitch.
 
 ---
 
