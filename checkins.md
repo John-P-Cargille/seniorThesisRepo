@@ -75,22 +75,22 @@ Actually motivating myself to do very much research into the necessary questions
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10//06/2025)
 ### This week I worked on:
 
-[Your answer here]
+Exploring the feasibility of real-time human voice pitch recognition as a senior thesis project.
 
 ### This week I learned:
 
-[Your answer here]
+Real-time human voice pitch recognition would not be an optimal thesis. I learned that the main issues facing real-time pitch recognition are consistency and timeliness; while I do have some ideas on how we might effectively reduce the time needed to calculate a pitch for Dr. Shapovalov's website--through being octave indiscriminate and having a known range for pitches selected by the user--it seems these solutions will either be relatively easy to implement or not adequately address the problem, with little in-between. On the other hand, a lot of genuinely interesting research is being done into how to increase the consistency of pitch-recognition models and decrease how much time it takes them to arrive at those conclusions--including by using AI to determine the likelihood of an actual pitch being detected. However, pursuing that research would be unlikely to produce a deliverable project, which is what I'd like to pursue for my thesis.
 
 ### My successes this week were:
 
-[Your answer here]
+Determining I should commit to building a melodic dictation page for my project and discussing the groundwork for this with Dr. Mahoney and Dr. Zak.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Trying to navigate the various studies and models used for real-time pitch recognition and determine which would be helpful in concluding the feasibility of that subject as a thesis project.
 
 ---
 
