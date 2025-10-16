@@ -75,7 +75,7 @@ Actually motivating myself to do very much research into the necessary questions
 
 ---
 
-## Week 5 Summary (10//06/2025)
+## Week 5 Summary (10/06/2025)
 ### This week I worked on:
 
 Exploring the feasibility of real-time human voice pitch recognition as a senior thesis project.
