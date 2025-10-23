@@ -94,22 +94,22 @@ Trying to navigate the various studies and models used for real-time pitch recog
 
 ---
 
-## Week 6 Summary (MM/DD/YYYY)
+## Week 6 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+Not much beyond continuing to refine my elevator pitch.
 
 ### This week I learned:
 
-[Your answer here]
+Dr. Shapovalov and I need to find a way to share code back and forth without making his repository public.
 
 ### My successes this week were:
 
-[Your answer here]
+Reading and responding to one email.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Trying to work on the project alongside preparation for my senior thesis.
 
 ---
 
