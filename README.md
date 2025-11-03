@@ -1,7 +1,4 @@
-# Senior Thesis Repo: [PLACE YOUR PROJECT NAME HERE]
-This repository is provided to help you build your senior thesis project. You will edit it to store your specification documents, code, and weekly checkins.
-
-First, fork this repo (this makes a copy of it associated with your account) and then clone it to your machine (this makes a copy of your fork on your personal machine). You can then use an editor and a GitHub client to manage the repository.
+# Senior Thesis Repo: Melodic Dictation
 
 ### Markdown
 This file is called README.md. It is a [Markdown file](https://en.wikipedia.org/wiki/Markdown). Markdown is a simple way to format documents. When a Markdown-ready viewer displays the contents of a file, it formats it to look like HTML. However, Markdown is significantly easier to write than HTML. VSCode supports displaying Markdown in a preview window. GitHub uses Markdown extensively including in every repo's description file, ```README.md```.
@@ -31,37 +28,29 @@ I have added a ```main.cpp``` file to get you started. Feel free to remove it.
 
 If you have any questions feel free to ask me! I'll answer professor questions, customer questions, and give advice if asked.
 
-# Sample Spec
+******Brackets indicate the pieces of the following specification which are still parts of the original template******
 
-Below is an example of a project specification.  
+# Software Requirements Specification for the Melodic Dictation Web Page
 
-## Software Requirements Specification for the Mahoney University Registration System
+# Introduction
 
-## Introduction
+## Purpose
 
-### Purpose
-The purpose of this document is to outline the functional and non-functional requirements of Mahoney University’s new online registration system. The system is designed to streamline the registration process for students and faculty, replacing the outdated manual system. This specification serves as a contract between the system stakeholders and the developers to ensure that the system meets the needs of its users while adhering to university policies and technical constraints.
+The purpose of this document is to outline the functional and non-functional requirements of the melodic dictation web page which will extend Dr. Shapovalov’s aural training website. The web page will serve to test student’s abilities to dictate short musical excerpts; where the sightreading webpage of the website helps students hear and reproduce what they see, the dictation webpage will help students visualize and write down what they hear.
 
-The key goals of the new system are:
-- To improve the efficiency of the course registration process for students.
-- To provide staff in the Registrar’s Office with tools to manage course offerings, schedules, and student records.
-- To enhance the accuracy and accessibility of student academic information, such as grades and enrollment history.
-- To support the university’s transition to digital infrastructure while maintaining compatibility with legacy systems during a transitional period.
+The key goals of this webpage are:
+-To provide appropriately difficult melodies for students to dictate
+-To offer an intuitive, useful, and appealing interface for entering notes on the staff, which will serve as a submitted dictation attempt for a given melody
+-To accurately and fairly score students on their dictation attempts
 
-### Scope
-This system is intended to support the registration process for all students at Mahoney University, including undergraduates, graduate students, and non-degree-seeking students. The system will handle:
-- Student authentication and secure access to personal records.
-- Course search and registration.
-- Enrollment validation, including prerequisite checks and course availability.
-- Management of student schedules, including the ability to add, drop, or modify course enrollments.
-- Grade viewing and transcript requests.
+## Scope
+This webpage will extend Dr. Shapovalov’s aural training website. It will be open to all users of the website, but grade in a self-contained run of examples. The user may adjust certain settings to alter how those examples are displayed while they remain somewhere on the website. The webpage will:
+-Load examples
+-Play sounds corresponding to the examples
+-Allow the user to enter notes on a staff
+-Grade the user on how close their dictation was to the example
 
-The scope of the system also includes administrative tools for the Registrar’s Office to:
-- Create and modify course offerings for each academic term.
-- Manage enrollment caps, waitlists, and course prerequisites.
-- Track student progress and generate reports for academic performance.
-
-### Definitions, Acronyms, and Abbreviations
+[### Definitions, Acronyms, and Abbreviations
 - **Registrar**: The official responsible for maintaining student records, managing course schedules, and overseeing the registration process.
 - **Student Information System (SIS)**: A university-wide database that stores student records, course information, and academic data.
 - **GPA**: Grade Point Average, a numerical representation of a student's academic performance.
@@ -69,9 +58,12 @@ The scope of the system also includes administrative tools for the Registrar’s
 - **Waitlist**: A system that allows students to reserve a spot in a full course, subject to availability if another student drops the course.
 - **Prerequisite**: A course or requirement that must be completed before a student can enroll in a more advanced course.
 - **User Role**: A designation for system access levels, such as student, registrar, or faculty member, each with different permissions within the system.
-- **Concurrent Enrollment**: The ability for students to be enrolled in multiple courses during the same academic term.
+- **Concurrent Enrollment**: The ability for students to be enrolled in multiple courses during the same academic term.]
 
-## Overview
+# Overview
+The Melodic Dictation Web Page is a webpage using javascript and express.
+
+[## Overview
 The Mahoney University Registration System is a web-based platform designed to automate the course registration process for students and faculty. It serves as the primary interface for students to manage their academic schedules and for university staff to oversee the course offerings and registration workflows.
 
 ### System Features:
@@ -177,4 +169,4 @@ The following sections detail the specific use cases that the system will suppor
 **Alternative Courses**:
 - **Step 7**: Invalid Data
   1. Display Error.
-  2. Go back to step 5.
+  2. Go back to step 5.]
