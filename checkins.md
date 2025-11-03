@@ -113,41 +113,41 @@ Trying to work on the project alongside preparation for my senior thesis.
 
 ---
 
-## Week 7 Summary (MM/DD/YYYY)
+## Week 7 Summary (10/20/2025)
 ### This week I worked on:
 
-[Your answer here]
+Determining how to share code with Dr. Shapovalov and scheduling a meeting with him.
 
 ### This week I learned:
 
-[Your answer here]
+We can use a scaled-back version of his website, effectively a LTS version, for me to build a melodic dictation route on top of a more static page. He has now shared this with me through github as a private collaborator.
 
 ### My successes this week were:
 
-[Your answer here]
+Getting access to Dr. Shapovalov's code.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Not being able to meet with Dr. Shapovalov due to his busy schedule and my upcoming recital.
 
 ---
 
-## Week 8 Summary (MM/DD/YYYY)
+## Week 8 Summary (10/27/2025)
 ### This week I worked on:
 
-[Your answer here]
+Delivering my elevator pitch and beginning to write the spec based on Dr. Shapovalov's current website.
 
 ### This week I learned:
 
-[Your answer here]
+Dr. Shapovalov and I need to meet asap to review my use spec and ideas for use cases. It is in fact feasible for me to start with the page loading, then loading an example and producing a tone, then entering a note, then grading the entered values, then moving to solfege and other options, then moving to generation or storage of the examples.
 
 ### My successes this week were:
 
-[Your answer here]
+Beginning work on my spec and scheduling an upcoming meeting with Dr. Shapovalov.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Again failing to properly meet with Dr. Shapovalov to discuss the project. I also think I may need to address the issue of how to test and store/generate examples sooner rather than later.
 
 ---
 
