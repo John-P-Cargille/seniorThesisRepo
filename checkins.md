@@ -151,18 +151,18 @@ Again failing to properly meet with Dr. Shapovalov to discuss the project. I als
 
 ---
 
-## Week 9 Summary (MM/DD/YYYY)
+## Week 9 Summary (11/03/2025)
 ### This week I worked on:
 
-[Your answer here]
+Finalizing the method by which Dr. Shapovalov will share his code with me, aka by having a scaled back stable version of the app which can be shared with me through a private repository. I then was able to set up the stable mini-version of the app and reviewing it with Dr. Shapovalov.
 
 ### This week I learned:
 
-[Your answer here]
+Within Dr. Shapovalov's code, the ScoreManager handles all of the rendering of the actual score, while the ScoreAnimator handles playback highlighting and playhead display. The in-built js audio-player is used for the sounds during playback, which is connected to a particular instance of score manager. There are additional classes for rendering various accidentals, clefs, stems, etc. onto the score that VexFlow generates. The Tonal class is something he designed himself to keep note names sensical with key centers, which isn't something I'll use much right away but which will be useful in the future to determine what accidental notes should be placed on certain notes to fit in the key.
 
 ### My successes this week were:
 
-[Your answer here]
+Finally meeting with Dr. Shapovalov, getting the code set up on my machine, and getting direction towards what I should look at next.
 
 ### The challenges I faced this week were:
 
@@ -170,78 +170,78 @@ Again failing to properly meet with Dr. Shapovalov to discuss the project. I als
 
 ---
 
-## Week 10 Summary (MM/DD/YYYY)
+## Week 10 Summary (11/10/2025)
 ### This week I worked on:
 
-[Your answer here]
+Very little beyond looking into VexFlow basics a bit.
 
 ### This week I learned:
 
-[Your answer here]
+It's hard to work on a thesis and go on tour at the same time.
 
 ### My successes this week were:
 
-[Your answer here]
+Looking into VexFlow basics a bit.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Actually working on the project.
 
 ---
 
-## Week 11 Summary (MM/DD/YYYY)
+## Week 11 Summary (11/17/2025)
 ### This week I worked on:
 
-[Your answer here]
+Very little related to thesis.
 
 ### This week I learned:
 
-[Your answer here]
+Very little related to thesis.
 
 ### My successes this week were:
 
-[Your answer here]
+Very little related to thesis.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Learning a bunch of Christmas Fest vocal music on my own and trying to get sleep.
 
 ---
 
-## Week 12 Summary (MM/DD/YYYY)
+## Week 12 Summary (11/24/2025)
 ### This week I worked on:
 
-[Your answer here]
+Very little related to thesis.
 
 ### This week I learned:
 
-[Your answer here]
+Very little related to thesis.
 
 ### My successes this week were:
 
-[Your answer here]
+Very little related to thesis.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Constantly thinking about how I should be working on thesis, and then not working on thesis because I was either a) working on other work b) hanging out with family for the holidays or c) being sick in bed.
 
 ---
 
-## Week 13 Summary (MM/DD/YYYY)
+## Week 13 Summary (12/1/2025)
 ### This week I worked on:
 
-[Your answer here]
+Understanding the brunt of Dr. Shapovalov's code, focusing on ScoreManager, ScoreAnimator, the playback pipeline, and the way in which VexFlow renders the score objects.
 
 ### This week I learned:
 
-[Your answer here]
+I had a wrong file-path for audio for notes. More specifically how the rendering of VexFlow occurs in ScoreManager using the renderToVex function. I also determined more specifically when and where playback occurs and how that attaches to the object given over to ScoreManager. I learned how to separate the master score from a user score by creating a second ScoreManager object and hiding the first until it is revealed by a submit button, allowing it to be heard without being seen. I also learned how to update the measures of a score and re-render the object over time, calculating the measure placement based off of total note values in the measure.
 
 ### My successes this week were:
 
-[Your answer here]
+Being able to add notes to the user score with appropriate bar-ing of measures and "submit" them to reveal the master score.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Finding how to easily update the collections within the score object, handling entry for notes with values beyond a measure, and solving the first problem I had of getting the path for note audio (this took a long time).
 
 ---
